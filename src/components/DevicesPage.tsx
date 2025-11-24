@@ -117,9 +117,9 @@ export default function DevicesPage() {
           {/* ✨ 可选：在右上角显示树莓派连接状态，方便调试 */}
           <div className="flex items-center gap-2 text-xs">
              {piData ? (
-                <span className="text-green-600 flex items-center gap-1"><Activity className="w-3 h-3" /> 树莓派数据源正常</span>
+                <span className="text-green-600 flex items-center gap-1"><Activity className="w-3 h-3" /> 温湿度传感器数据源正常</span>
              ) : (
-                <span className="text-gray-400">正在搜索树莓派...</span>
+                <span className="text-gray-400">正在搜索智能家居...</span>
              )}
           </div>
 
