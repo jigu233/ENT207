@@ -1,83 +1,82 @@
-ClimateLife 🌿
-Your Climate & Lifestyle Companion | 您的气候与生活伴侣
-Status: Alpha Test Version 🚧 Developed by: XJTLU Students
+# ClimateLife 🌿
+### Your Climate & Lifestyle Companion
 
-📖 项目简介 (Introduction)
-ClimateLife 致力于帮助用户探索如何创造一个智能、节能且生态友好的生活环境。它不仅仅是一个应用，更是一套整合了实时环境数据、智能建议、植物管理和 IoT 设备控制的综合生活指南。
+> **Status:** Alpha Test Version 🚧
+> **Developed by:** XJTLU Students
 
-本项目目前处于 Alpha 测试阶段，仅供教育研究与非商业用途。
+## 📖 Introduction
 
-🌐 项目入口与资源 (Landing Page Hub)
-我们的 Landing Page 是通往 ClimateLife 生态系统的门户，集成了以下核心资源：
+**ClimateLife** is dedicated to helping users discover how to create an intelligent, energy-efficient, and eco-friendly living environment. It is not just an app, but a comprehensive living guide that integrates real-time environmental data, smart suggestions, plant management, and IoT device control.
 
-1. 快速访问与导航
-Web 端入口：点击左侧醒目的 "Visit Website" 按钮，即可直接跳转至 ClimateLife 的功能网页版，无需安装即可体验。
+This project is currently an Alpha test version and is intended for educational research and non-commercial purposes only.
 
-多语言支持：右上角提供中英文切换功能（中文 / English），方便不同语言用户使用。
+---
 
-用户反馈：通过右上角的 "User Feedback" 按钮，您可以直接向开发团队提交使用感受和建议。
+## 🌐 Landing Page Hub
 
-2. 视频介绍与演示
-Feature Gallery：页面中部嵌入了项目介绍视频，直观演示了 App 的核心操作和智能家居场景的联动效果。
+Our Landing Page serves as the gateway to the ClimateLife ecosystem, integrating the following core resources:
 
-3. 应用下载
-Android App：页面底部提供 "Download Android App" 按钮，安卓用户可直接下载 APK 安装包进行体验。
+### 1. Quick Access & Navigation
+* **Web Portal**: Click the prominent **"Visit Website"** button on the left to jump directly to the web version of ClimateLife without installation.
+* **Multi-language Support**: Use the toggle in the top right corner to switch between Chinese and English to suit your preference.
+* **User Feedback**: Click the **"User Feedback"** button in the top right to submit your experience and suggestions directly to the development team.
 
-4. 社交媒体矩阵 (Follow Us)
-关注我们的官方账号，获取更多更新和生活灵感：
+### 2. Video Introduction
+* **Feature Gallery**: A project introduction video is embedded in the center of the page, visually demonstrating the app's core operations and smart home scenario interactions.
 
-TikTok
+### 3. App Download
+* **Android App**: The **"Download Android App"** button is located at the bottom of the page. Android users can download the APK installation package directly to experience the app.
 
-小红书 (Little Red Book)
-
-Bilibili
-
-✨ 核心应用功能 (Core Features)
-进入应用后，您将体验到以下四大核心模块：
-
-1. 🏠 首页与天气助手 (Home & AI Assistant)
-环境感知：提供实时气温、湿度及 PM2.5 数据监测。
-
-智能决策：基于天气数据提供穿搭建议（Smart Outfit Tips）和环境调节建议。
+### 4. Social Media Matrix (Follow Us)
+Follow our official accounts for updates and lifestyle inspiration:
+* **TikTok**
+* **Little Red Book (Xiaohongshu)**
+* **Bilibili**
 
 
-AI 助手：内置 AI 对话功能，随时解答关于植物种植或生活百科的疑问 。
+---
 
-2. 🪴 植物养护 (Plant Care)
-全能花园管家：集成了植物百科与个人花园管理功能。您可以添加并管理个人种植的植物，自定义名称和备注。
+## ✨ Core Features
 
+Upon entering the application, you will experience four core modules:
 
-可视化生长日记：支持图文混排记录。用户可以上传植物照片并添加文字，生成专属的植物生长档案，见证生命变化的每一个瞬间 。
+### 1. 🏠 Home & AI Assistant
+* **Environmental Sensing**: Provides real-time monitoring of temperature, humidity, and PM2.5 data.
+* **Smart Decisions**: Offers **Smart Outfit Tips** and environment adjustment suggestions based on current weather conditions.
+* **AI Assistant**: Features a built-in AI chat function to answer questions about plant cultivation or daily life queries at any time.
 
-3. 💬 社区互动 (Community)
-分享与发现：这是一个关于穿搭与植物的交流空间。
+### 2. 🪴 Plant Care
+* **All-in-One Garden Manager**: Integrates **Plant Encyclopedia** and **Personal Garden Management**. You can add and manage your own plants, customizing names and notes.
+* **Visual Growth Diary**: Supports records with both text and photos. Users can upload plant photos and add descriptions to generate a unique plant growth archive, capturing every moment of life.
 
+### 3. 💬 Community
+* **Share & Discover**: A space for exchanging ideas on outfits and plant care.
+* **Interaction & Filtering**: Supports posting, liking, and commenting. It also features a convenient **Category Filter** (All / Outfit / Plant Care) to help you quickly locate topics of interest and find inspiration efficiently.
 
-互动筛选一体化：支持发布帖子、点赞和评论互动；同时提供便捷的分类筛选功能（All/Outfit/Plant Care），让您能迅速定位感兴趣的话题，高效获取灵感 。
+### 4. 📱 IoT Devices
+* **Device Compatibility**: Supports the connection and synchronization of various IoT devices.
+* **Remote Control**: Manage devices such as temperature/humidity sensors and humidifiers directly within the app, view real-time readings, and control power switches.
 
-4. 📱 智能设备 (IoT Devices)
-设备兼容性：支持多种 IoT 设备的接入与同步（IoT Device Compatibility）。
+> **📚 For a detailed feature guide, please check the application access instructions:**
+> [https://www.canva.cn/design/DAG6Uzhqzpg/XEIrym2brmIA-fcioHJiNw/view?utm_content=DAG6Uzhqzpg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h246ecd9e7e](https://www.canva.cn/design/DAG6Uzhqzpg/XEIrym2brmIA-fcioHJiNw/view?utm_content=DAG6Uzhqzpg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h246ecd9e7e)
 
+---
 
-远程控制：在 App 内即可管理温湿度传感器、加湿器等设备，实时查看读数并控制开关 。
+## 🚀 Getting Started
 
-🚀 快速开始 (Getting Started)
-方式一：Web 网页版体验
-直接访问我们的 Landing Page 并点击 "Visit Website"：
+### Method 1: Web Experience
+Before downloading the app, you can visit our test website via the Landing Page, which offers the same functionality as the app:
+* **URL**: `https://climatelife-smart-li-lytd.bolt.host/`
 
+### Method 2: Android Client
+1.  Visit the Landing Page mentioned above.
+2.  Scroll to the bottom of the page and click the **"Download Android App"** button.
+3.  Install the APK file to start using the app (Currently supports Android systems only).
 
-地址: https://climatelife-smart-li-lytd.bolt.host/ 
+---
 
-方式二：Android 客户端
-访问上述 Landing Page。
+## 📄 License & Disclaimer
 
-滚动至页面底部，点击 "Download Android App"。
-
-安装 APK 文件即可使用（目前仅支持 Android 系统） 。
-
-📄 免责声明 (License & Disclaimer)
-开发者：西交利物浦大学 (XJTLU) 学生团队。
-
-性质：本项目为非商业项目，仅用于教育和研究目的 (Non-commercial project for education & research)。
-
-版本：Alpha 测试版，功能可能随时调整。
+* **Developer**: XJTLU Student Team.
+* **Nature**: This is a non-commercial project intended for education and research purposes only.
+* **Version**: Alpha Test Version; features are subject to change.
