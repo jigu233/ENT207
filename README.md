@@ -58,15 +58,14 @@ Upon entering the application, you will experience four core modules:
 * **Remote Control**: Manage devices such as temperature/humidity sensors and humidifiers directly within the app, view real-time readings, and control power switches.
 
 > **📚 For a detailed feature guide, please check the application access instructions:**
-> [https://www.canva.cn/design/DAG6Uzhqzpg/XEIrym2brmIA-fcioHJiNw/view?utm_content=DAG6Uzhqzpg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h246ecd9e7e](https://www.canva.cn/design/DAG6Uzhqzpg/XEIrym2brmIA-fcioHJiNw/view?utm_content=DAG6Uzhqzpg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h246ecd9e7e)
-
+>  [Click here to visit](https://www.canva.cn/design/DAG6Uzhqzpg/XEIrym2brmIA-fcioHJiNw/view?utm_content=DAG6Uzhqzpg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h246ecd9e7e)
 ---
 
 ## 🚀 Getting Started
 
 ### Method 1: Web Experience
 Before downloading the app, you can visit our test website via the Landing Page, which offers the same functionality as the app:
-* **URL**: `https://climatelife-smart-li-lytd.bolt.host/`
+* **URL**: https://climatelife-smart-li-1ytd.bolt.host/
 
 ### Method 2: Android Client
 1.  Visit the Landing Page mentioned above.
